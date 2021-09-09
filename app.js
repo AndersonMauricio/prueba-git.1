@@ -1,1 +1,2 @@
-let ejemplo = "ejemplo"
+let ejemplo = "ejemplo";
+let andy ="andy "
